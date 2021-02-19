@@ -212,6 +212,10 @@ td.expense {
   color: #e92929;
 }
 
+img.remove {
+  cursor: pointer;
+}
+
 /* Modal ========================== */
 .modal-overlay {
   width: 100%;
